@@ -1,4 +1,4 @@
-# TADSummit - Erlang-Red diameter example
+# TADSummit - Erlang-Red diameter examples
 
 Examples used for the TADSummit presentation.
 
