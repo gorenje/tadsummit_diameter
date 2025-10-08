@@ -1,0 +1,62 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red/debug",
+    "local": false,
+    "module": "node-red",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlmodule",
+    "types": [
+      "erlmodule"
+    ],
+    "user": false,
+    "version": "0.4.2"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlstatemachine",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlstatemachine",
+    "types": [
+      "erlstatemachine"
+    ],
+    "user": false,
+    "version": "0.4.2"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/inject",
+    "local": false,
+    "module": "node-red",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/node-red-contrib-flow2uml/mermaid-flowchart",
+    "local": true,
+    "module": "@gregoriusrippenstein/node-red-contrib-flow2uml",
+    "name": "mermaid-flowchart",
+    "types": [
+      "mermaid-flowchart"
+    ],
+    "user": false,
+    "version": "0.3.1"
+  }
+]
