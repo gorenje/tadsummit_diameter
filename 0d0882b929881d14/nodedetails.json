@@ -25,6 +25,18 @@
   },
   {
     "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlgenserver",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlgenserver",
+    "types": [
+      "erlgenserver"
+    ],
+    "user": false,
+    "version": "0.4.2"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
