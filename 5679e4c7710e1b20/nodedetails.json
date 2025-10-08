@@ -1,0 +1,86 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/debug",
+    "local": false,
+    "module": "node-red",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/delay",
+    "local": false,
+    "module": "node-red",
+    "name": "delay",
+    "types": [
+      "delay"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlmodule",
+    "types": [
+      "erlmodule"
+    ],
+    "user": false,
+    "version": "0.4.2"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/function",
+    "local": false,
+    "module": "node-red",
+    "name": "function",
+    "types": [
+      "function"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/inject",
+    "local": false,
+    "module": "node-red",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  }
+]
