@@ -25,18 +25,6 @@
   },
   {
     "enabled": true,
-    "id": "node-red/delay",
-    "local": false,
-    "module": "node-red",
-    "name": "delay",
-    "types": [
-      "delay"
-    ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlgenserver",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
