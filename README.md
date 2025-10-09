@@ -2,6 +2,8 @@
 
 Examples used for the TADSummit presentation.
 
+Part of the [Erlang-Red](https://github.com/gorenje/erlang-red) Project: Visual Flpw Based Programming for Erlang inspired by [Node-RED](https://nodered.org).
+
 ## Access via FlowHub.org
 
 Direct access to this repository is possible:
