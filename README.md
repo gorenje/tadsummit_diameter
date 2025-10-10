@@ -1,6 +1,6 @@
-# TADSummit - Erlang-Red diameter examples
+# TADSummit - Erlang-Red diameter example and walkthrough
 
-Examples used for the TADSummit presentation.
+Examples used in the [TADSummit presentation](https://www.youtube.com/watch?v=N15_HcfYBlo) walkthrough of Erlang-Red.
 
 Part of the [Erlang-Red](https://github.com/gorenje/erlang-red) Project: Visual Flpw Based Programming for Erlang inspired by [Node-RED](https://nodered.org).
 
